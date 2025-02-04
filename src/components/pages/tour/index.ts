@@ -1,6 +1,0 @@
-export * from './tour-hero'
-export * from './tour-main'
-export * from './filter'
-export * from './checkbox-filter'
-export * from './tablist'
-export * from './main-section'

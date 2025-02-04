@@ -1,6 +1,0 @@
-export * from './account'
-export * from './history'
-export * from './payment-method'
-export * from './profile-hero'
-export * from './profile-main'
-export * from './payment-method'
